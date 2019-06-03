@@ -6,7 +6,7 @@ import java.util.*;
       System.out.println("Enter Two Numbers");
       int a=sc1.nextInt();
       int b=sc1.nextInt();
-      if((a+b)%2==0)
+      if((a+b)%2==00
       {
       System.out.println("Even num");
       }
@@ -14,4 +14,4 @@ import java.util.*;
       System.out.println("Odd num");
       }
     }
-} 
+  }
